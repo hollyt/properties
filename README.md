@@ -25,7 +25,7 @@ uses regular expressions to get temperature and lambda values from output files 
 table with these values in the corresponding .dms files. **get_properties.py** retrieves the properties infromation
 from the .dms file and prints it to standard output.
 
-To run:
+To run:  
     ./add_properties.py r1  
     ./get_properties.py r1
 

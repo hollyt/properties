@@ -26,7 +26,7 @@ table with these values in the corresponding .dms files. **get_properties.py** r
 from the .dms file and prints it to standard output.
 
 To run:  
-    `./add_properties.py r1` 
+    `./add_properties.py r1`    
     `./get_properties.py r1`
 
 For questions & more information:
